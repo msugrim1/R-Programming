@@ -1,0 +1,22 @@
+---
+title: "Matt Sugrim Final Project Markdown File"
+author: "Matt Sugrim"
+date: "`r Sys.Date()`"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+## R Markdown
+
+This R Markdown File will be used to document the data and functions that I will utilize in order to complete the final project.
+
+Data:
+
+Functions Used:
+
+* I do not have any idea of what functions I should create for this final project as of this writing,
+but I do intend to create and edit this markdown file as needed as the project goes on and I have solidified 
+a proper concept and idea.
